@@ -36,6 +36,7 @@ public class UniqueCharactersFrequency {
         
         	char[] result = new char[count];
         	System.arraycopy(unique, 0, result, 0, count);
+
         	return result;
     	}
 
