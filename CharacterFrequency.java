@@ -9,6 +9,7 @@ public class CharacterFrequency{
                 String[][] res = findCharacterFrequency(s);
 		for(int i=0;i<res.length;i++){
 			System.out.println(res[i][0] + " -> " + res[i][1]);
+
 		}
 
         }
