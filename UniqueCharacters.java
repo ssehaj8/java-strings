@@ -60,6 +60,7 @@ public class UniqueCharacters {
             		System.out.println(e.getMessage());  
         	}
         	return count;
+
     	}
 }
 
