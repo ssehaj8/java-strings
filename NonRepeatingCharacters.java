@@ -35,6 +35,7 @@ public class NonRepeatingCharacters{
         	}
 
         	// Return 0 if no non-repeating character is found
+
     		return 0; 
 	}
 
